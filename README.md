@@ -4,8 +4,10 @@
 - Additionally began developing a logistic regression model to predict results of upcoming fixtures. 
 
 Possible Improvements: 
-- need to import more data to train and test logistic regression model
-- create more features for logistic regression model
+- Need to import more data to train and test logistic regression model
+- Afterwards need to Cross Validate Model
+- Create more features for logistic regression model
+
 
 Data: http://fbref.com
 Tags: data cleaning, web-scrapping, data visualization, pandas, logistic regression
